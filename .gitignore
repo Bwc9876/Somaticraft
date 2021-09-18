@@ -1,0 +1,12 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/java/main/
+**/build/
+!src/**/build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+/.idea/
+/src/generated
+/run/

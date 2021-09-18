@@ -1,0 +1,14 @@
+[{
+  "modid": "somaticraft",
+  "name": "Somaticraft",
+  "description": "Minecraft with somatic spells!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["bwc9876"],
+  "credits": "Stackoverflow",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
